@@ -1,6 +1,6 @@
 # Object Detection Based on Caption with YOLOv3
 
-![MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
