@@ -32,7 +32,7 @@ To achieve object detection based on captions, we follow these steps:
 
 To replicate the project and experiment with the model, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/Alireza499/OBJECT_DETECTION_BASED_ON_CAPTION.git`
+1. Clone this repository: `git clone https://github.com/Delavari-Alireza/OBJECT_DETECTION_BASED_ON_CAPTION.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Download the pre-trained YOLOv3 weights and save them in the designated directory.
 4. Review and adapt the Jupyter Notebook files to your dataset and requirements.
